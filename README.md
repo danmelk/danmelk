@@ -5,7 +5,7 @@
 
 ## About me:
 
-- Software developer with a desire to solve problems!
+- Software developer with a desire to solve problems! ![](https://cdn.betterttv.net/emote/609431bc39b5010444d0cbdc/1x)
 - Looking to collaborate on open-source Python projects :fire:
 - Mainly interested in back-end development :computer: <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="100" />
 - In my free time, I do pet-projects :zap: 
