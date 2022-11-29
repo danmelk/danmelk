@@ -6,15 +6,7 @@
 - Mainly interested in back-end development :computer: 
 - In my free time, I do pet-projects :zap: 
 
-<br>
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danmelk&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-
-
+<br><br><br><br>
    <a href="https://t.me/f1rec0de">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-
-<br><br><br><br>
