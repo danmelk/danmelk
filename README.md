@@ -1,7 +1,7 @@
-[![My Skills](https://skillicons.dev/icons?i=python,git,typescript&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,javascript,typescript,python&theme=dark)](https://skillicons.dev)
 
 
-## About:
+## About myself:
 
 - Software developer with a passion for problem solving ![](https://cdn.betterttv.net/emote/609431bc39b5010444d0cbdc/1x)
 - Looking to collaborate on open-source projects :fire: 
