@@ -15,9 +15,6 @@ Always exploring new ways to create value through code
 
 ### Let's Connect
 <p>
-  <a href="https://discord.com/users/363311700243382302">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=20&labelColor=22272e&borderRadius=20" alt="Discord Badge"/>
-  </a>
    <br/>
   <a href="https://t.me/f1rec0de">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20&labelColor=22272e&borderRadius=20" alt="Telegram Badge"/>
